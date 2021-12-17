@@ -1,0 +1,14 @@
+#logo_img{
+width: 120px;
+height: 100px;
+}
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
